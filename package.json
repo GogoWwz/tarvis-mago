@@ -1,0 +1,26 @@
+{
+  "name": "easyperformance",
+  "version": "1.0.0",
+  "description": "A chrome extension to develop easier and more simple for frontend engineer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GogoWwz/EasyPerformance.git"
+  },
+  "author": "GogoWwz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GogoWwz/EasyPerformance/issues"
+  },
+  "homepage": "https://github.com/GogoWwz/EasyPerformance#readme",
+  "dependencies": {
+    "chrome-types": "^0.1.163",
+    "puppeteer": "^19.5.2",
+    "tesseract.js": "^4.0.2",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}

@@ -1,2 +1,2 @@
-# EasyPerformance
-An chrome extension to test performance for pages easier
+# Mago
+A chrome extension to develop easier and more simple for frontend engineer
