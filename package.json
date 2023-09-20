@@ -1,6 +1,6 @@
 {
   "name": "easyperformance",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A chrome extension to develop easier and more simple for frontend engineer",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/GogoWwz/EasyPerformance#readme",
   "dependencies": {
+    "axios": "^1.4.0",
     "chrome-types": "^0.1.163",
     "puppeteer": "^19.5.2",
     "tesseract.js": "^4.0.2",
